@@ -1,5 +1,4 @@
 # Movie-Recommendation-System-using-Collaborative-Filtering
-# Movie Recommendation System
 
 A simple Movie Recommendation System built using Python and Collaborative Filtering. The project recommends movies based on user ratings from the MovieLens dataset.
 
